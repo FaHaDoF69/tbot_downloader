@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { BotModule } from './modules/bot.module';
+import { BotModule } from './modules/bot/bot.module';
 import { internalsImportsAppModule } from './app/imports/internals.import';
 import { externalsImportsAppModule } from './app/imports/externals.import';
 
