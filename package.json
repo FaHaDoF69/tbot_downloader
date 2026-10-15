@@ -21,20 +21,20 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@nestjs/common": "^11.0.1",
-    "@nestjs/core": "^11.0.1",
-    "@nestjs/platform-express": "^11.0.1",
+    "@nestjs/common": "^11.2.7",
+    "@nestjs/core": "^11.2.7",
+    "@nestjs/platform-express": "^11.2.7",
     "@nestjs/sequelize": "^11.0.0",
-    "node-telegram-bot-api": "^0.66.0",
+    "node-telegram-bot-api": "^2.1.0",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
-    "sequelize": "^6.37.6",
+    "sequelize": "^6.37.8",
     "sequelize-typescript": "^2.1.6"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.23.0",
-    "@nestjs/cli": "^11.0.0",
+    "@nestjs/cli": "^11.0.24",
     "@nestjs/schematics": "^11.0.0",
     "@nestjs/testing": "^11.0.1",
     "@swc/cli": "^0.6.0",
